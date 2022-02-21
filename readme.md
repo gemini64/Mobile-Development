@@ -12,10 +12,12 @@ Vengono incluse le relazioni dei due assignment proposti, il sorgente dell'appli
 
 ✅ [Assignment 2 - Prototype & Test](./assignment_2/relazione.md)
 
-❌  Application - WIP
+✅ [Applicazione](https://github.com/gemini64/MedsReminder)
 
 Che includo per comodità di consultazione anche in formato **PDF**
 
 [Assignment 1 - PDF](./assignment_1/relazione.pdf)
 
 [Assignment 2 - PDF](./assignment_2/relazione.pdf)
+
+[Readme Applicazione - PDF](https://github.com/gemini64/MedsReminder/blob/master/README.pdf)
